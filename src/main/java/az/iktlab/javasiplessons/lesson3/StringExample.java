@@ -50,5 +50,10 @@ public class StringExample {
         /**
          * String word = "Hello sip group";
          * */
+
+        // abcd
+        // cadb
+
+        System.out.println("zc".compareTo("za"));
     }
 }
