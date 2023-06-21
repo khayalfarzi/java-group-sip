@@ -1,0 +1,39 @@
+=======================================================================================================================
+Write a Java method to display the middle character of a string.
+
+Note:   a) If the length of the string is odd there will be two middle characters.
+        b) If the length of the string is even there will be one middle character.
+
+Test Data:
+Input a string: 350
+Expected Output:
+
+
+The middle character in the string: 5
+
+=======================================================================================================================
+
+
+=======================================================================================================================
+Write a Java method to count all vowels in a string.
+
+Test Data:
+    Input the string: w3resource
+
+Expected Output:
+
+Number of  Vowels in the string: 4
+
+=======================================================================================================================
+
+
+=======================================================================================================================
+Write a Java method to check whether every digit of a given integer is even. Return true if every digit is odd otherwise false.
+
+Expected Output:
+
+Input an integer: 8642
+
+Check whether every digit of the said integer is even or not!
+    true
+=======================================================================================================================
