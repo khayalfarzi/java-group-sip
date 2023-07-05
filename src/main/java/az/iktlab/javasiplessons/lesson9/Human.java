@@ -5,6 +5,8 @@ import java.util.Objects;
 
 public class Human {
 
+    public static int ID = 9;
+
     public Human() {
     }
 
