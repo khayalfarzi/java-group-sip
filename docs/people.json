@@ -1,0 +1,72 @@
+[
+  {
+    "name": "John",
+    "surname": "Doe",
+    "age": 28,
+    "gender": "Male",
+    "birthDate": "1995-04-15"
+  },
+  {
+    "name": "Jane",
+    "surname": "Smith",
+    "age": 32,
+    "gender": "Female",
+    "birthDate": "1989-08-22"
+  },
+  {
+    "name": "Michael",
+    "surname": "Johnson",
+    "age": 45,
+    "gender": "Male",
+    "birthDate": "1978-11-10"
+  },
+  {
+    "name": "Emily",
+    "surname": "Brown",
+    "age": 22,
+    "gender": "Female",
+    "birthDate": "2001-02-28"
+  },
+  {
+    "name": "William",
+    "surname": "Jones",
+    "age": 19,
+    "gender": "Male",
+    "birthDate": "2004-06-03"
+  },
+  {
+    "name": "Sophia",
+    "surname": "Davis",
+    "age": 29,
+    "gender": "Female",
+    "birthDate": "1992-09-18"
+  },
+  {
+    "name": "David",
+    "surname": "Miller",
+    "age": 37,
+    "gender": "Male",
+    "birthDate": "1986-07-11"
+  },
+  {
+    "name": "Olivia",
+    "surname": "Wilson",
+    "age": 26,
+    "gender": "Female",
+    "birthDate": "1997-12-07"
+  },
+  {
+    "name": "James",
+    "surname": "Taylor",
+    "age": 31,
+    "gender": "Male",
+    "birthDate": "1990-03-25"
+  },
+  {
+    "name": "Ava",
+    "surname": "Anderson",
+    "age": 24,
+    "gender": "Female",
+    "birthDate": "1999-01-09"
+  }
+]
