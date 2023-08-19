@@ -9,7 +9,14 @@ public class Main {
 
         List<Person> people = HumanUtil.loadPeople();
 
-        HumanUtil.showPeopleByNameSortedDesc(people);
+//        HumanUtil.showPeopleByNameSortedDesc(people);
+
+//        String data = FileUtil.parseData(people);
+//        FileUtil.writeToFile(data,
+//                "/Applications/idea/java-group-sip/docs/human.json");
+
+        FileUtil.readFromFile("/Applications/idea/java-group-sip/docs/human.json")
+                .forEach(System.out::println);
 
     }
 

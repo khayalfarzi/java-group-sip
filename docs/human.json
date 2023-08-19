@@ -1,0 +1,215 @@
+[
+  {
+    "name": "John",
+    "surname": "Doe",
+    "age": 25,
+    "father": {
+      "name": "Emily",
+      "surname": "Williams",
+      "age": 82,
+      "father": {
+        "name": "Ava",
+        "surname": "Martinez",
+        "age": 29,
+        "father": null,
+        "mother": null
+      },
+      "mother": {
+        "name": "David",
+        "surname": "Lopez",
+        "age": 23,
+        "father": null,
+        "mother": null
+      }
+    },
+    "mother": {
+      "name": "William",
+      "surname": "Brown",
+      "age": 78,
+      "father": {
+        "name": "Emma",
+        "surname": "Rodriguez",
+        "age": 31,
+        "father": null,
+        "mother": null
+      },
+      "mother": {
+        "name": "Daniel",
+        "surname": "Wilson",
+        "age": 32,
+        "father": null,
+        "mother": null
+      }
+    }
+  },
+  {
+    "name": "Jane",
+    "surname": "Smith",
+    "age": 30,
+    "father": {
+      "name": "Sophia",
+      "surname": "Davis",
+      "age": 24,
+      "father": null,
+      "mother": null
+    },
+    "mother": {
+      "name": "Robert",
+      "surname": "Garcia",
+      "age": 29,
+      "father": null,
+      "mother": null
+    }
+  },
+  {
+    "name": "Michael",
+    "surname": "Johnson",
+    "age": 22,
+    "father": {
+      "name": "Olivia",
+      "surname": "Jones",
+      "age": 21,
+      "father": {
+        "name": "Mia",
+        "surname": "Anderson",
+        "age": 34,
+        "father": null,
+        "mother": null
+      },
+      "mother": {
+        "name": "Joseph",
+        "surname": "Harris",
+        "age": 35,
+        "father": null,
+        "mother": null
+      }
+    },
+    "mother": {
+      "name": "James",
+      "surname": "Miller",
+      "age": 27,
+      "father": null,
+      "mother": null
+    }
+  },
+  {
+    "name": "Emily",
+    "surname": "Williams",
+    "age": 82,
+    "father": {
+      "name": "Ava",
+      "surname": "Martinez",
+      "age": 29,
+      "father": null,
+      "mother": null
+    },
+    "mother": {
+      "name": "David",
+      "surname": "Lopez",
+      "age": 23,
+      "father": null,
+      "mother": null
+    }
+  },
+  {
+    "name": "William",
+    "surname": "Brown",
+    "age": 78,
+    "father": {
+      "name": "Emma",
+      "surname": "Rodriguez",
+      "age": 31,
+      "father": null,
+      "mother": null
+    },
+    "mother": {
+      "name": "Daniel",
+      "surname": "Wilson",
+      "age": 32,
+      "father": null,
+      "mother": null
+    }
+  },
+  {
+    "name": "Olivia",
+    "surname": "Jones",
+    "age": 21,
+    "father": {
+      "name": "Mia",
+      "surname": "Anderson",
+      "age": 34,
+      "father": null,
+      "mother": null
+    },
+    "mother": {
+      "name": "Joseph",
+      "surname": "Harris",
+      "age": 35,
+      "father": null,
+      "mother": null
+    }
+  },
+  {
+    "name": "James",
+    "surname": "Miller",
+    "age": 27,
+    "father": null,
+    "mother": null
+  },
+  {
+    "name": "Sophia",
+    "surname": "Davis",
+    "age": 24,
+    "father": null,
+    "mother": null
+  },
+  {
+    "name": "Robert",
+    "surname": "Garcia",
+    "age": 29,
+    "father": null,
+    "mother": null
+  },
+  {
+    "name": "Ava",
+    "surname": "Martinez",
+    "age": 29,
+    "father": null,
+    "mother": null
+  },
+  {
+    "name": "David",
+    "surname": "Lopez",
+    "age": 23,
+    "father": null,
+    "mother": null
+  },
+  {
+    "name": "Emma",
+    "surname": "Rodriguez",
+    "age": 31,
+    "father": null,
+    "mother": null
+  },
+  {
+    "name": "Daniel",
+    "surname": "Wilson",
+    "age": 32,
+    "father": null,
+    "mother": null
+  },
+  {
+    "name": "Mia",
+    "surname": "Anderson",
+    "age": 34,
+    "father": null,
+    "mother": null
+  },
+  {
+    "name": "Joseph",
+    "surname": "Harris",
+    "age": 35,
+    "father": null,
+    "mother": null
+  }
+]
