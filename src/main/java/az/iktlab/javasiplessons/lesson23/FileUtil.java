@@ -47,7 +47,9 @@ public class FileUtil {
 
             ObjectMapper mapper = new ObjectMapper();
 
-           return mapper.readValue(is.read(2048), new TypeReference<List<Person>>(){});
+            return null;
+
+//           return mapper.readValue(is.read(2048), new TypeReference<List<Person>>(){});
         } catch (IOException ex) {
             throw new RuntimeException(ex.getMessage());
         }
